@@ -1,21 +1,21 @@
 
-public class main {
+public class principale {
 	int nombre1;
 	int nombre2;
 	int resultatm;
 
-	public main addition()
+	public principale addition()
 	{
 
 		return null;
 
 	}
-	public main division()
+	public principale division()
 	{
 
 		return null;
 	}
-	public main soustraction()
+	public principale soustraction()
 	{
 
 		return null;
