@@ -1,9 +1,7 @@
 
 public class main {
-	int nombre1;
 	int nombre2;
 	int resultatm;
-	input nombre1;
 
 	public main addition()
 	{
