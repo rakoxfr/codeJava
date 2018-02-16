@@ -22,7 +22,7 @@ public class principale {
 	}
 	public int multiplication()
 	{
-		String name = System.console().readLine();
+		
 		resultatm=nombre1*nombre2;
 		return resultatm;
 	}
