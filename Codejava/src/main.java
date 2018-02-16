@@ -1,7 +1,7 @@
 
 public class main {
 
-	public main division() {
+	public main addition() {
 		
 		return null;
 	}
