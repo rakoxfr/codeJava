@@ -13,7 +13,7 @@ public main soustraction() {
 	
 	return null;
 }
-public main multiplicationx() {
+public main multiplication() {
 	
 	return null;
 }
