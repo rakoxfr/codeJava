@@ -23,7 +23,7 @@ public class main {
 	public int multiplication()
 	{
 		
-resultatm=nombre1*nombre2;
+		resultatm=nombre1*nombre2;
 		return resultatm;
 	}
 
