@@ -2,7 +2,8 @@
 public class main {
 	int nombre1;
 	int nombre2;
-	
+	int resultatm;
+	input nombre1;
 
 	public main addition()
 	{
@@ -20,10 +21,11 @@ public class main {
 
 		return null;
 	}
-	public main multiplication()
+	public int multiplication()
 	{
-
-		return null;
+		
+resultatm=nombre1*nombre2;
+		return resultatm;
 	}
 
 
