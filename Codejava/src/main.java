@@ -1,5 +1,6 @@
 
 public class main {
+	int nombre1;
 	int nombre2;
 	int resultatm;
 
