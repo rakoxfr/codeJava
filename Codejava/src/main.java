@@ -3,7 +3,7 @@ public class main {
 	int nombre1;
 	int nombre2;
 	int resultatm;
-	input nombre1;
+	
 
 	public main addition()
 	{
@@ -13,7 +13,9 @@ public class main {
 	}
 	public main division()
 	{
-
+		System.out.println("Rentrer le Numérateur");
+	
+		System.out.println("Rentrer le Dénominateur");		
 		return null;
 	}
 	public main soustraction()
